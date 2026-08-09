@@ -1,0 +1,13 @@
+{
+  "id": "homepage-about-iic",
+  "indexLabel": "01 / THE COUNCIL",
+  "micLine": "Operating under the Ministry of Education's Innovation Cell (MIC)",
+  "eyebrow": "A place for the next attempt",
+  "title": ["Where curiosity", "becomes creation."],
+  "intro": "IIC is a student-powered space to question, experiment, and build. It brings curiosity into contact with people, tools, and opportunities—so ideas can move beyond the classroom.",
+  "forces": {
+    "cool": { "label": "CURIOSITY", "words": ["Question", "Learn", "Explore", "Discover"] },
+    "warm": { "label": "ACTION", "words": ["Build", "Experiment", "Create", "Try again"] }
+  },
+  "equation": ["KNOWLEDGE", "+", "ACTION", "=", "WHAT'S NEXT"]
+}

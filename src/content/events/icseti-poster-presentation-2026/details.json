@@ -1,0 +1,16 @@
+{
+  "id": "icseti-poster-presentation-2026",
+  "title": "Poster Presentation @ ICSETI–2026",
+  "eventType": "Research presentation",
+  "year": "2026",
+  "date": "ICSETI–2026",
+  "venue": null,
+  "category": "research",
+  "theme": "Research-driven ideas in sustainable engineering and technology",
+  "description": "A poster presentation organized by IIC JSSATEN in collaboration with the IEEE UP Section, giving students a platform to showcase research-driven ideas and receive feedback from international experts and distinguished faculty.",
+  "activities": ["Poster setup", "Student research presentations", "Expert discussion", "Faculty interaction", "Feedback and appreciation"],
+  "keywords": ["ICSETI", "research", "sustainable engineering", "technology", "international experts", "IEEE UP Section"],
+  "stages": ["learn", "build", "test", "pitch"],
+  "sourcePages": [11, 12],
+  "featured": true
+}

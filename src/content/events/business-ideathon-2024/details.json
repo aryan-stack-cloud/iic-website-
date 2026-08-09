@@ -1,0 +1,16 @@
+{
+  "id": "business-ideathon-2024",
+  "title": "Business Idea-thon",
+  "eventType": "Business Ideathon",
+  "year": "2024",
+  "date": null,
+  "venue": null,
+  "category": "ideation",
+  "theme": "Original ideas into presentable possibilities",
+  "description": "A campus Business Idea-thon open to all students. Participants formed teams of 2–3 members and presented 5–15 slide decks, receiving expert feedback and mentor networking opportunities.",
+  "activities": ["Team formation", "Idea presentations", "Jury interaction and feedback", "Networking session", "Prize distribution", "Certificate distribution"],
+  "keywords": ["business idea", "student teams", "pitch deck", "expert feedback", "mentor networking"],
+  "stages": ["curious", "build", "test", "pitch"],
+  "sourcePages": [2],
+  "featured": true
+}

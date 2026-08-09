@@ -1,0 +1,9 @@
+{
+  "id": "homepage-primary-navigation",
+  "items": [
+    { "id": "home", "label": "Home", "target": "#hero", "index": "00" },
+    { "id": "council", "label": "The Council", "target": "#about", "index": "01" },
+    { "id": "events", "label": "Events", "target": "#events", "index": "02" },
+    { "id": "join", "label": "Join", "target": "#join", "index": "03" }
+  ]
+}

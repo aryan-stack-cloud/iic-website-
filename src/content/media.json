@@ -1,0 +1,16 @@
+{
+  "id": "iic-media-registry",
+  "items": [
+    { "id": "report-business-ideathon-poster", "type": "image", "src": "/assets/events-report/business-ideathon-2024/poster.jpg", "alt": "Business Idea-thon poster from the official IIC event report" },
+    { "id": "report-ip-utsav-poster", "type": "image", "src": "/assets/events-report/innovation-creativity-ipr-week-2025/ip-utsav.jpg", "alt": "IP UTSAV poster from the official IIC event report" },
+    { "id": "report-innovation-creativity-poster", "type": "image", "src": "/assets/events-report/innovation-creativity-ipr-week-2025/innovation-creativity.jpg", "alt": "Innovation Creativity poster from the official IIC event report" },
+    { "id": "report-eureka-collage", "type": "image", "src": "/assets/events-report/eureka-road-to-enterprise-2025/collage.jpg", "alt": "EUREKA Road to Enterprise event image from the official IIC event report" },
+    { "id": "report-ceo-creative-things-poster", "type": "image", "src": "/assets/events-report/ceo-of-creative-things-2025/poster.jpg", "alt": "CEO of Creative Things Challenge poster from the official IIC event report" },
+    { "id": "report-whats-the-problem-poster", "type": "image", "src": "/assets/events-report/whats-the-problem-2025/poster.jpg", "alt": "What's the Problem event poster from the official IIC event report" },
+    { "id": "report-entrecon-panel", "type": "image", "src": "/assets/events-report/entrecon-india-2025/panel.jpg", "alt": "ENTRECON India event panel image from the official IIC event report" },
+    { "id": "report-regional-meet", "type": "image", "src": "/assets/events-report/iic-regional-meet-2025/meet.jpg", "alt": "IIC Regional Meet image from the official IIC event report" },
+    { "id": "report-icseti-presentation", "type": "image", "src": "/assets/events-report/icseti-poster-presentation-2026/presentation.jpg", "alt": "ICSETI poster presentation image from the official IIC event report" },
+    { "id": "report-innoquest-poster", "type": "image", "src": "/assets/events-report/innoquest-2026/poster.jpg", "alt": "INNOQUEST poster from the official IIC event report" },
+    { "id": "report-innoventx-poster", "type": "image", "src": "/assets/events-report/innoventx-2026/poster.jpg", "alt": "INNOVENTX poster from the official IIC event report" }
+  ]
+}

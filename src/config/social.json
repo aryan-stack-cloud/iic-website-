@@ -1,0 +1,8 @@
+{
+  "id": "iic-social-links",
+  "links": [
+    { "id": "linkedin", "label": "LinkedIn", "shortLabel": "in", "url": "https://www.linkedin.com" },
+    { "id": "instagram", "label": "Instagram", "shortLabel": "ig", "url": "https://www.instagram.com" },
+    { "id": "youtube", "label": "YouTube", "shortLabel": "yt", "url": "https://www.youtube.com" }
+  ]
+}

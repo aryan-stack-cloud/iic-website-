@@ -1,0 +1,17 @@
+{
+  "id": "iic-visual-language",
+  "colors": {
+    "black": "#050507",
+    "white": "#ffffff",
+    "orange": "#f5a623",
+    "red": "#d6321f",
+    "navy": "#1b2a6b",
+    "steel": "#3d6d9c",
+    "grey": "#9ba3b4"
+  },
+  "meaning": {
+    "warm": "action",
+    "cool": "knowledge",
+    "white": "connection"
+  }
+}

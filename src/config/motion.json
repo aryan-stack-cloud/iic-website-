@@ -1,0 +1,7 @@
+{
+  "id": "iic-motion-system",
+  "scrollScrub": 1.1,
+  "lenisLerp": 0.085,
+  "pointerEase": 0.08,
+  "reducedMotionQuery": "(prefers-reduced-motion: reduce)"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "homepage-hero",
+  "eyebrow": "JSS Academy of Technical Education, Noida",
+  "establishedLabel": "EST. 2018",
+  "title": ["Institution's", "Innovation", "Council"],
+  "year": "2026",
+  "tagline": ["Build.", "Break.", "Belong."],
+  "primaryCta": { "id": "enter-council", "label": "Enter the Council", "href": "mailto:iic@jssaten.ac.in?subject=I want to join IIC" },
+  "secondaryCta": { "id": "explore-events", "label": "Explore Events", "href": "#events" },
+  "meta": { "sequenceStart": "01", "sequenceEnd": "04", "latitude": "28.5355° N", "longitude": "77.3910° E" },
+  "scrollCue": "Scroll to explore",
+  "socialLinksRef": "iic-social-links"
+}

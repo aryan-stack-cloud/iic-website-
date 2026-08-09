@@ -1,0 +1,12 @@
+{
+  "id": "iic-leadership-members",
+  "groups": [
+    { "id": "faculty-mentor", "label": "Faculty Mentor", "order": 1 },
+    { "id": "faculty-coordinators", "label": "Faculty Coordinators", "order": 2 },
+    { "id": "student-executive-team", "label": "Student Executive Team", "order": 3 },
+    { "id": "core-team", "label": "Core Team", "order": 4 },
+    { "id": "volunteers", "label": "Volunteers", "order": 5 }
+  ],
+  "selectedGroups": ["faculty-mentor", "faculty-coordinators", "student-executive-team", "core-team"],
+  "members": []
+}

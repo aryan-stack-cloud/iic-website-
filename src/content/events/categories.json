@@ -1,0 +1,13 @@
+{
+  "id": "events-categories",
+  "categories": [
+    { "id": "ideation", "label": "Ideation" },
+    { "id": "learning", "label": "Learning" },
+    { "id": "entrepreneurship", "label": "Entrepreneurship" },
+    { "id": "intellectual-property", "label": "Intellectual Property" },
+    { "id": "research", "label": "Research" },
+    { "id": "industry", "label": "Industry & Ecosystem" },
+    { "id": "challenge", "label": "Challenge" },
+    { "id": "community", "label": "Community" }
+  ]
+}

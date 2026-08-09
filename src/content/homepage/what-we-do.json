@@ -1,0 +1,37 @@
+{
+  "id": "homepage-what-we-do",
+  "eyebrow": "02 / THE ECOSYSTEM",
+  "title": ["Ideas need", "room to move."],
+  "intro": "Real opportunities to learn, test, build, and carry an idea further—through the IIC community.",
+  "statement": ["There is no single way in.", "Enter where your curiosity", "finds its next question."],
+  "legend": { "cool": "Learning", "warm": "Building", "bridge": "Collaboration" },
+  "activities": [
+    { "id": "research", "name": "Research", "tone": "cool", "personality": "deep", "description": "Follow curiosity until it becomes evidence.", "evidence": null },
+    { "id": "workshops", "name": "Workshops", "tone": "cool", "personality": "structured", "description": "Learn by making the next version.", "evidence": null },
+    { "id": "mentorship", "name": "Mentorship Sessions", "tone": "cool", "personality": "guiding", "description": "Move further with perspective.", "evidence": null },
+    { "id": "ideathons", "name": "Ideathons", "tone": "warm", "personality": "branching", "description": "Turn questions into directions.", "evidence": null },
+    { "id": "hackathons", "name": "Hackathons", "tone": "warm", "personality": "accelerated", "description": "Build under pressure, together.", "evidence": null },
+    { "id": "innovation-challenges", "name": "Innovation Challenges", "tone": "warm", "personality": "testing", "description": "Test ideas against real constraints.", "evidence": null },
+    { "id": "startup-incubation", "name": "Startup Incubation", "tone": "warm", "personality": "growing", "description": "Give promising ideas room to grow.", "evidence": null },
+    { "id": "entrepreneurship", "name": "Entrepreneurship Development", "tone": "warm", "personality": "expanding", "description": "Learn what it takes to make an idea last.", "evidence": null },
+    { "id": "industry-collaboration", "name": "Industry Collaboration", "tone": "bridge", "personality": "extending", "description": "Take the work beyond campus.", "evidence": null }
+  ],
+  "connections": [["research", "ideathons", "cool"], ["research", "workshops", "cool"], ["research", "industry-collaboration", "bridge"], ["workshops", "mentorship", "cool"], ["workshops", "ideathons", "cool"], ["workshops", "industry-collaboration", "bridge"], ["mentorship", "industry-collaboration", "bridge"], ["mentorship", "startup-incubation", "bridge"], ["ideathons", "hackathons", "warm"], ["ideathons", "industry-collaboration", "bridge"], ["hackathons", "innovation-challenges", "warm"], ["hackathons", "startup-incubation", "warm"], ["innovation-challenges", "startup-incubation", "warm"], ["innovation-challenges", "industry-collaboration", "bridge"], ["startup-incubation", "entrepreneurship", "warm"], ["industry-collaboration", "entrepreneurship", "bridge"]],
+  "graphEdges": [
+    { "from": "research", "to": "ideathons", "tone": "cool", "d": "M 235 140 C 330 98, 365 126, 430 140" },
+    { "from": "research", "to": "workshops", "tone": "cool", "d": "M 235 140 C 168 212, 150 248, 135 305" },
+    { "from": "research", "to": "industry-collaboration", "tone": "bridge", "d": "M 235 140 C 342 185, 410 260, 500 310" },
+    { "from": "workshops", "to": "mentorship", "tone": "cool", "d": "M 135 305 C 175 370, 212 424, 278 472" },
+    { "from": "workshops", "to": "ideathons", "tone": "cool", "d": "M 135 305 C 232 280, 332 218, 430 140" },
+    { "from": "mentorship", "to": "industry-collaboration", "tone": "bridge", "d": "M 278 472 C 362 410, 426 354, 500 310" },
+    { "from": "mentorship", "to": "startup-incubation", "tone": "bridge", "d": "M 278 472 C 412 505, 546 500, 665 500" },
+    { "from": "ideathons", "to": "hackathons", "tone": "warm", "d": "M 430 140 C 530 92, 625 112, 710 180" },
+    { "from": "ideathons", "to": "industry-collaboration", "tone": "bridge", "d": "M 430 140 C 466 202, 485 252, 500 310" },
+    { "from": "hackathons", "to": "innovation-challenges", "tone": "warm", "d": "M 710 180 C 788 238, 812 292, 810 360" },
+    { "from": "hackathons", "to": "startup-incubation", "tone": "warm", "d": "M 710 180 C 704 298, 682 390, 665 500" },
+    { "from": "innovation-challenges", "to": "startup-incubation", "tone": "warm", "d": "M 810 360 C 772 418, 720 464, 665 500" },
+    { "from": "innovation-challenges", "to": "industry-collaboration", "tone": "bridge", "d": "M 810 360 C 692 354, 590 330, 500 310" },
+    { "from": "startup-incubation", "to": "entrepreneurship", "tone": "warm", "d": "M 665 500 C 600 552, 520 568, 450 560" },
+    { "from": "industry-collaboration", "to": "entrepreneurship", "tone": "bridge", "d": "M 500 310 C 492 398, 478 484, 450 560" }
+  ]
+}

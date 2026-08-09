@@ -1,0 +1,37 @@
+{
+  "id": "events-page",
+  "entrance": {
+    "id": "events-exhibition-entrance",
+    "title": "The Exhibition",
+    "statement": "Every exhibit was once just an idea.",
+    "institution": ["Innovation Council", "JSS Academy of Technical Education", "Noida"],
+    "featuredEventId": "innoventx-2026"
+  },
+  "hero": {
+    "eyebrow": "IIC JSSATEN / LIVING ARCHIVE",
+    "openingLines": ["An event is never just a date.", "It is a person becoming ready."],
+    "intro": "A documented journey through the questions, rooms, and encounters that have shaped innovation at IIC."
+  },
+  "featuredEventId": "innoventx-2026",
+  "journey": {
+    "eyebrow": "WHERE CAN I BEGIN?",
+    "title": ["Start where", "you are."],
+    "intro": "There is no single way into innovation. Begin with a question, a skill, a team, or a stage."
+  },
+  "archive": {
+    "eyebrow": "THE LIVING ARCHIVE",
+    "title": ["Real moments", "in motion."],
+    "intro": "Every environment below is built from an event documented by IIC-JSSATEN."
+  },
+  "explorer": {
+    "eyebrow": "EXPLORE THE RECORD",
+    "title": ["Find your", "next room."],
+    "searchPlaceholder": "Search the archive",
+    "empty": "No documented event matches that search."
+  },
+  "detail": {
+    "backLabel": "Return to archive",
+    "enterLabel": "Enter the documented memory",
+    "sourceLabel": "Source: IIC-JSSATEN Event & Activity Report"
+  }
+}

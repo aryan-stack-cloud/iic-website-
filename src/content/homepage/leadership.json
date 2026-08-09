@@ -1,0 +1,13 @@
+{
+  "id": "homepage-leadership",
+  "indexLabel": "04 / THE PEOPLE",
+  "title": ["The people", "behind the motion."],
+  "intro": "The culture of IIC is shaped by people who make room for questions, attempts, and each other.",
+  "opening": "Every culture begins with the people who make room for others.",
+  "labels": {
+    "tenure": "Term",
+    "insight": "A thought they carry",
+    "featuredContribution": "Featured contribution",
+    "connect": "Connect"
+  }
+}

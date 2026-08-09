@@ -1,0 +1,12 @@
+{
+  "id": "events-growth-stages",
+  "stages": [
+    { "id": "curious", "label": "CURIOUS", "description": "Begin with a question worth staying with.", "tone": "cool" },
+    { "id": "learn", "label": "LEARN", "description": "Find language, tools, and people to go further.", "tone": "cool" },
+    { "id": "build", "label": "BUILD", "description": "Give an idea a form that can be tested.", "tone": "warm" },
+    { "id": "test", "label": "TEST", "description": "Meet the constraints that make the work stronger.", "tone": "bridge" },
+    { "id": "pitch", "label": "PITCH", "description": "Put the work in front of someone else.", "tone": "warm" },
+    { "id": "lead", "label": "LEAD", "description": "Carry the idea with and for other people.", "tone": "bridge" },
+    { "id": "launch", "label": "LAUNCH", "description": "Take the next step beyond the room.", "tone": "warm" }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "homepage-join-iic",
+  "indexLabel": "06 / THE NEXT STORY",
+  "openingLine": "The next memory hasn't happened yet.",
+  "secondLine": "It starts with one decision.",
+  "cta": {
+    "id": "build-with-us",
+    "label": "Build With Us",
+    "href": "mailto:iic@jssaten.ac.in?subject=I want to build with IIC"
+  },
+  "principles": [
+    { "id": "innovate", "label": "Innovate.", "whisper": "Turn curiosity into ideas." },
+    { "id": "collaborate", "label": "Collaborate.", "whisper": "Build with people who challenge you." },
+    { "id": "build", "label": "Build.", "whisper": "Create something that matters." },
+    { "id": "lead", "label": "Lead.", "whisper": "Help others begin." }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "innoquest-2026",
+  "title": "INNOQUEST 2026",
+  "eventType": "Collaborative Business Ideathon Sprint",
+  "year": "2026",
+  "date": "25 March 2026",
+  "venue": null,
+  "category": "ideation",
+  "theme": "Cross-campus business model development",
+  "description": "A collaborative Business Ideathon Sprint organized by IIC of JSS University, Noida and JSS Academy of Technical Education, Noida, where students developed market-driven business ideas and presented scalable solutions before experts.",
+  "activities": ["Problem statement", "Team brainstorming", "Business model development", "Startup pitches", "Expert panel evaluation", "Certificate distribution"],
+  "keywords": ["collaborative", "business ideathon", "cross-campus", "business models", "scalable solutions"],
+  "stages": ["curious", "build", "test", "pitch", "lead"],
+  "sourcePages": [12],
+  "featured": true
+}
